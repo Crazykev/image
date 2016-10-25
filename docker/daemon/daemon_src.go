@@ -14,7 +14,7 @@ import (
 
 	"github.com/containers/image/manifest"
 	"github.com/containers/image/types"
-	"github.com/docker/engine-api/client"
+	"github.com/docker/docker/client"
 	"golang.org/x/net/context"
 )
 

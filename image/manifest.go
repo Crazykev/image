@@ -3,10 +3,9 @@ package image
 import (
 	"time"
 
-	"github.com/docker/engine-api/types/strslice"
-
 	"github.com/containers/image/manifest"
 	"github.com/containers/image/types"
+	"github.com/docker/docker/api/types/strslice"
 )
 
 type config struct {
